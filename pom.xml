@@ -28,8 +28,8 @@
 	</properties>
 
 	<scm>
-		<connection>scm:git:git@github.com:jorgeacetozi/notepad.git</connection>
-		<developerConnection>scm:git:git@github.com:jorgeacetozi/notepad.git</developerConnection>
+		<connection>scm:git:github.com/moeomar/notepad.git</connection>
+		<developerConnection>scm:git:github.com/moeomar/notepad.git</developerConnection>
 		<url>scm:git:git@github.com:jorgeacetozi/notepad.git</url>
 		<tag>HEAD</tag>
 	</scm>
